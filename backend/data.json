@@ -1,0 +1,1007 @@
+searching: {title}
+
+Found Manga: Replica datte, Koi wo Suru.
+mangaId: 5ecf58d2-fcac-44f1-8341-97b7ef4fe82e
+
+ fetching chapters . . . 
+{
+    "result": "ok",
+    "response": "collection",
+    "data": [
+        {
+            "id": "8884e1c0-805a-4588-b6ca-c02c0f7e57a8",
+            "type": "chapter",
+            "attributes": {
+                "volume": "1",
+                "chapter": "1",
+                "title": "A Spring Breeze in Early Summer",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-06-24T14:02:08+00:00",
+                "readableAt": "2023-06-24T14:02:08+00:00",
+                "createdAt": "2023-06-24T14:02:07+00:00",
+                "updatedAt": "2024-05-09T02:03:26+00:00",
+                "version": 4,
+                "pages": 41
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "21f4018d-3ee3-4cd2-8433-23ae2213c3ca",
+            "type": "chapter",
+            "attributes": {
+                "volume": "1",
+                "chapter": "2",
+                "title": "Is This... a First Date!?",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-07-01T00:28:41+00:00",
+                "readableAt": "2023-07-01T00:28:41+00:00",
+                "createdAt": "2023-07-01T00:28:40+00:00",
+                "updatedAt": "2024-05-09T02:03:27+00:00",
+                "version": 4,
+                "pages": 31
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "4b0d62f7-66a5-4d44-ad33-4afdb7ebb0c7",
+            "type": "chapter",
+            "attributes": {
+                "volume": "1",
+                "chapter": "3",
+                "title": "An Outing, Just The Two Of Us!",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-07-11T14:47:39+00:00",
+                "readableAt": "2023-07-11T14:47:39+00:00",
+                "createdAt": "2023-07-11T14:47:38+00:00",
+                "updatedAt": "2024-05-09T02:03:28+00:00",
+                "version": 4,
+                "pages": 32
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "a85f8045-46a9-4253-bed2-7732815a2fa7",
+            "type": "chapter",
+            "attributes": {
+                "volume": "1",
+                "chapter": "4",
+                "title": "As Long As We're Together, We Can Go Anywhere",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-07-28T23:42:12+00:00",
+                "readableAt": "2023-07-28T23:42:12+00:00",
+                "createdAt": "2023-07-28T23:42:12+00:00",
+                "updatedAt": "2024-05-09T02:03:29+00:00",
+                "version": 4,
+                "pages": 19
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "0429c5d6-c37b-41c2-9969-53e3f4e8fc94",
+            "type": "chapter",
+            "attributes": {
+                "volume": "1",
+                "chapter": "5",
+                "title": "Long Time, No Call",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-08-30T00:22:08+00:00",
+                "readableAt": "2023-08-30T00:22:08+00:00",
+                "createdAt": "2023-08-30T00:22:07+00:00",
+                "updatedAt": "2024-05-09T02:03:32+00:00",
+                "version": 4,
+                "pages": 25
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "9d75abb1-35da-4dc1-be83-23e6a0274ca8",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "6",
+                "title": "The One Calling Out To You Is...?",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-09-30T21:49:01+00:00",
+                "readableAt": "2023-09-30T21:49:01+00:00",
+                "createdAt": "2023-09-30T21:49:01+00:00",
+                "updatedAt": "2024-07-10T18:37:45+00:00",
+                "version": 4,
+                "pages": 17
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "05cd1a77-f6ca-4bfb-8fc5-6aeaef89ef5f",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "7",
+                "title": "Summer Festivals and Shaved Ice Go Hand in Hand!",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-11-06T13:20:20+00:00",
+                "readableAt": "2023-11-06T13:20:20+00:00",
+                "createdAt": "2023-11-06T13:20:19+00:00",
+                "updatedAt": "2024-07-10T18:37:46+00:00",
+                "version": 4,
+                "pages": 23
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "bdb1cee9-f1cf-44c7-b122-109083c5df52",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "8",
+                "title": "Facing Down Your Nemesis!",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2023-12-10T21:28:04+00:00",
+                "readableAt": "2023-12-10T21:28:04+00:00",
+                "createdAt": "2023-12-10T21:28:04+00:00",
+                "updatedAt": "2024-07-10T18:37:46+00:00",
+                "version": 4,
+                "pages": 20
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "fd96be21-ffa8-4772-966a-36fb07b61f40",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "9",
+                "title": "The Destined Showdown Arrives!",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-01-07T02:49:52+00:00",
+                "readableAt": "2024-01-07T02:49:52+00:00",
+                "createdAt": "2024-01-07T02:49:52+00:00",
+                "updatedAt": "2024-07-10T18:37:47+00:00",
+                "version": 4,
+                "pages": 25
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "d80c94eb-3b6b-4acf-96e4-c577cf7cf21b",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "10",
+                "title": "A Tense Conversation",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-03-19T03:19:33+00:00",
+                "readableAt": "2024-03-19T03:19:33+00:00",
+                "createdAt": "2024-03-19T03:19:32+00:00",
+                "updatedAt": "2024-07-10T18:37:48+00:00",
+                "version": 4,
+                "pages": 27
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "1cd9c919-d658-4b9f-902f-45590c1f37f1",
+            "type": "chapter",
+            "attributes": {
+                "volume": "2",
+                "chapter": "11",
+                "title": "A Sudden Despair",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-04-08T16:13:47+00:00",
+                "readableAt": "2024-04-08T16:13:47+00:00",
+                "createdAt": "2024-04-08T16:13:46+00:00",
+                "updatedAt": "2024-07-10T18:37:48+00:00",
+                "version": 4,
+                "pages": 27
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "5616ad92-7d3b-4768-93dc-dc17f32b6827",
+            "type": "chapter",
+            "attributes": {
+                "volume": "3",
+                "chapter": "12",
+                "title": "Sleep Well",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-05-09T00:05:46+00:00",
+                "readableAt": "2024-05-09T00:05:46+00:00",
+                "createdAt": "2024-05-09T00:05:45+00:00",
+                "updatedAt": "2025-04-10T05:13:43+00:00",
+                "version": 5,
+                "pages": 29
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "2bf7abad-3c31-49af-ae70-f5cca5a9e674",
+            "type": "chapter",
+            "attributes": {
+                "volume": "3",
+                "chapter": "13",
+                "title": "Sweet Things Are A Young Girl's Dream",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-07-10T00:33:25+00:00",
+                "readableAt": "2024-07-10T00:33:25+00:00",
+                "createdAt": "2024-07-10T00:33:25+00:00",
+                "updatedAt": "2025-04-10T05:13:45+00:00",
+                "version": 4,
+                "pages": 31
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "c42c25c3-4d12-406f-8b12-eb21d28dfd02",
+            "type": "chapter",
+            "attributes": {
+                "volume": "3",
+                "chapter": "14",
+                "title": "The Struggles of a Replica",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-08-11T00:38:44+00:00",
+                "readableAt": "2024-08-11T00:38:44+00:00",
+                "createdAt": "2024-08-11T00:38:43+00:00",
+                "updatedAt": "2025-04-10T05:13:47+00:00",
+                "version": 4,
+                "pages": 35
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "93d7397d-e3b4-40d5-8bec-561f321b2d64",
+            "type": "chapter",
+            "attributes": {
+                "volume": "3",
+                "chapter": "15",
+                "title": "Summer Rolls By, And The Autumn Wind Blows In...",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-09-20T19:28:28+00:00",
+                "readableAt": "2024-09-20T19:28:28+00:00",
+                "createdAt": "2024-09-20T19:28:28+00:00",
+                "updatedAt": "2025-04-10T05:13:49+00:00",
+                "version": 4,
+                "pages": 20
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "82e4fe87-cfe9-4aea-a0b3-4d1bdf94e417",
+            "type": "chapter",
+            "attributes": {
+                "volume": "3",
+                "chapter": "16",
+                "title": "The Turning of the Seasons",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-10-23T20:13:17+00:00",
+                "readableAt": "2024-10-23T20:13:17+00:00",
+                "createdAt": "2024-10-23T20:13:17+00:00",
+                "updatedAt": "2025-04-10T05:13:51+00:00",
+                "version": 5,
+                "pages": 36
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "7904feee-2467-46f1-a013-06cbc2825b80",
+            "type": "chapter",
+            "attributes": {
+                "volume": "4",
+                "chapter": "17",
+                "title": "Out of the Frying Pan, Into the Fire",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2024-12-08T22:34:49+00:00",
+                "readableAt": "2024-12-08T22:34:49+00:00",
+                "createdAt": "2024-12-08T22:34:48+00:00",
+                "updatedAt": "2026-05-29T11:06:19+00:00",
+                "version": 7,
+                "pages": 44
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "c0243ed1-2ccf-42f8-91df-452985943eb9",
+            "type": "chapter",
+            "attributes": {
+                "volume": "4",
+                "chapter": "18",
+                "title": "The Human Heart Is A Fickle Thing...",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2025-01-21T00:45:05+00:00",
+                "readableAt": "2025-01-21T00:45:05+00:00",
+                "createdAt": "2025-01-21T00:45:05+00:00",
+                "updatedAt": "2026-05-29T11:06:20+00:00",
+                "version": 5,
+                "pages": 30
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "1d6a33e3-cea7-4574-9985-d4aff562da6e",
+            "type": "chapter",
+            "attributes": {
+                "volume": "4",
+                "chapter": "19",
+                "title": "With You, I'd Happily Go Round Again And Again",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2025-03-10T13:25:38+00:00",
+                "readableAt": "2025-03-10T13:25:38+00:00",
+                "createdAt": "2025-03-10T13:25:37+00:00",
+                "updatedAt": "2026-05-29T11:06:21+00:00",
+                "version": 5,
+                "pages": 33
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "eb0bbd4f-4c5e-4073-a783-c3ea338c0602",
+            "type": "chapter",
+            "attributes": {
+                "volume": "4",
+                "chapter": "20",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2025-04-10T01:15:09+00:00",
+                "readableAt": "2025-04-10T01:15:09+00:00",
+                "createdAt": "2025-04-10T01:15:08+00:00",
+                "updatedAt": "2026-05-29T11:06:22+00:00",
+                "version": 5,
+                "pages": 28
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "f3304daf-c49a-4185-b888-ab309116b50d",
+            "type": "chapter",
+            "attributes": {
+                "volume": "4",
+                "chapter": "21",
+                "title": "We're Holding On",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2025-05-11T23:33:11+00:00",
+                "readableAt": "2025-05-11T23:33:11+00:00",
+                "createdAt": "2025-05-11T23:33:10+00:00",
+                "updatedAt": "2026-05-29T11:06:22+00:00",
+                "version": 5,
+                "pages": 28
+            },
+            "relationships": [
+                {
+                    "id": "a34e60bd-316a-4909-aa36-84027ce492a5",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "26882c86-66df-4d4a-82c6-0c2dac17d614",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "868e7d64-a2d4-4a33-9847-3cdf392b74c9",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "22",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-14T13:58:17+00:00",
+                "readableAt": "2026-05-14T13:58:17+00:00",
+                "createdAt": "2026-05-14T02:57:40+00:00",
+                "updatedAt": "2026-05-21T17:38:02+00:00",
+                "version": 6,
+                "pages": 40
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "6853e5ea-e2a4-44c0-8363-b6cb5ba8b550",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "23",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-17T08:06:15+00:00",
+                "readableAt": "2026-05-17T08:06:15+00:00",
+                "createdAt": "2026-05-17T08:06:14+00:00",
+                "updatedAt": "2026-05-17T10:43:08+00:00",
+                "version": 4,
+                "pages": 36
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "aed9c4e1-62f1-46a0-aa8f-94762b3d1778",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "24",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-20T18:49:23+00:00",
+                "readableAt": "2026-05-20T18:49:23+00:00",
+                "createdAt": "2026-05-20T18:49:22+00:00",
+                "updatedAt": "2026-05-21T17:37:51+00:00",
+                "version": 5,
+                "pages": 42
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "fab31439-9137-4f0a-8d8f-077cdd30e0f2",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "25",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-22T09:46:38+00:00",
+                "readableAt": "2026-05-22T09:46:38+00:00",
+                "createdAt": "2026-05-22T09:46:38+00:00",
+                "updatedAt": "2026-05-22T10:29:44+00:00",
+                "version": 5,
+                "pages": 38
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "a4cbcf0b-aee6-4fd0-9a3e-5e43906681d6",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "25.5",
+                "title": "Special Illustration - School Festival Date",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-24T14:39:18+00:00",
+                "readableAt": "2026-05-24T14:39:18+00:00",
+                "createdAt": "2026-05-24T14:39:18+00:00",
+                "updatedAt": "2026-05-24T14:39:26+00:00",
+                "version": 3,
+                "pages": 8
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "c733f896-c577-4f1b-9df1-d4e1615d3045",
+            "type": "chapter",
+            "attributes": {
+                "volume": "5",
+                "chapter": "25.6",
+                "title": "Special Illustration - Mochizuki Magic",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-24T14:39:57+00:00",
+                "readableAt": "2026-05-24T14:39:57+00:00",
+                "createdAt": "2026-05-24T14:39:57+00:00",
+                "updatedAt": "2026-06-04T16:32:00+00:00",
+                "version": 5,
+                "pages": 14
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "c58693a8-bf8f-49c7-a4ae-9d371b9242d9",
+            "type": "chapter",
+            "attributes": {
+                "volume": "6",
+                "chapter": "26",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-26T23:47:18+00:00",
+                "readableAt": "2026-05-26T23:47:18+00:00",
+                "createdAt": "2026-05-26T23:47:17+00:00",
+                "updatedAt": "2026-06-02T15:27:36+00:00",
+                "version": 6,
+                "pages": 35
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "ef4a4028-1edc-474b-9fbb-62287a7b1992",
+            "type": "chapter",
+            "attributes": {
+                "volume": "6",
+                "chapter": "26.5",
+                "title": "Recording Studio Visit Report",
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-29T06:24:27+00:00",
+                "readableAt": "2026-05-29T06:24:27+00:00",
+                "createdAt": "2026-05-29T06:24:25+00:00",
+                "updatedAt": "2026-05-29T06:24:30+00:00",
+                "version": 3,
+                "pages": 4
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "a1215efb-34ab-4f7c-b26f-18f1b5bfb4c6",
+            "type": "chapter",
+            "attributes": {
+                "volume": "6",
+                "chapter": "27",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-05-30T16:19:04+00:00",
+                "readableAt": "2026-05-30T16:19:04+00:00",
+                "createdAt": "2026-05-30T16:19:03+00:00",
+                "updatedAt": "2026-05-30T16:19:55+00:00",
+                "version": 3,
+                "pages": 32
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        },
+        {
+            "id": "117ac9b1-e3fb-44ae-9f55-01701363f373",
+            "type": "chapter",
+            "attributes": {
+                "volume": "6",
+                "chapter": "28",
+                "title": null,
+                "translatedLanguage": "en",
+                "externalUrl": null,
+                "isUnavailable": false,
+                "publishAt": "2026-06-04T16:12:05+00:00",
+                "readableAt": "2026-06-04T16:12:05+00:00",
+                "createdAt": "2026-06-04T16:12:03+00:00",
+                "updatedAt": "2026-06-04T16:12:52+00:00",
+                "version": 3,
+                "pages": 45
+            },
+            "relationships": [
+                {
+                    "id": "7d7b91c8-4473-4162-8805-8a9ad46ab5ae",
+                    "type": "scanlation_group"
+                },
+                {
+                    "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+                    "type": "manga"
+                },
+                {
+                    "id": "fc6e9df7-5c5f-43de-b1d2-949bd953fbd2",
+                    "type": "user"
+                }
+            ]
+        }
+    ],
+    "limit": 500,
+    "offset": 0,
+    "total": 31
+}
